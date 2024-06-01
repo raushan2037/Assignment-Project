@@ -1,0 +1,23 @@
+.navbar{
+    width:100%;
+    height: 65px;
+    background-color: #191E28;
+    margin-top: -20px;
+    position:sticky;
+    
+     
+}
+.button{
+    margin-left: 80rem;
+    display: flex;
+    position: absolute;
+    margin-top: -49px; 
+    
+}
+.list{
+    margin-left: 35rem;
+    margin-top: -3.2rem;
+    font-size: 16px;
+    display: flex;
+    position: absolute;
+}
